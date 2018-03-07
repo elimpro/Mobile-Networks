@@ -44,7 +44,7 @@ Please note that any modification you make on this link will NOT be saved.
 ### 3 - Online reading
 Our notebook is also available for simple reading at the following url:
 
-[<center> <img  height="50" width="90" src="http://nbviewer.jupyter.org/static/img/nav_logo.svg">](https://mybinder.org/v2/gh/elimpro/Mobile-Networks/master?urlpath=lab)
+[<center> <img  height="50" width="90" src="http://nbviewer.jupyter.org/static/img/nav_logo.svg">](http://nbviewer.jupyter.org/github/elimpro/Mobile-Networks/blob/master/Notebook_mobile_networks.ipynb)
 
 -------
 Alexia Calandras & Imad El Hanafi
