@@ -1,6 +1,5 @@
 numpy
 pandas
 matplotlib
-time
 sklearn
 zip
