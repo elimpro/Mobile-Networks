@@ -19,7 +19,7 @@ zip
 
 To install these packages, please run the following line in a python terminal:
 ```
-pip install numpy pandas matplotlib time sklearn zip
+pip install numpy pandas matplotlib sklearn zip
 ```
 
 Then open Jupyter Notebook or Jupyter Lab running:
